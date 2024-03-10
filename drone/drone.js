@@ -1,3 +1,4 @@
+// Context: https://www.reddit.com/r/meirl/comments/1bb3o92/comment/ku7glpq/?utm_source=share&utm_medium=web2x&context=3
 let me_drone_coordinates = [400, 200];
 let other_drone_coordinates = {"drone-1": [500, 900], "done-2": [395, 200]};
 
